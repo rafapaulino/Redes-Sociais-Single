@@ -1,0 +1,78 @@
+/* REDES SOCIAIS SINGLE: ;
+// --------------------------------------------------
+*/
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,100);
+
+.redes-sociais-single {
+    margin: 10px auto;
+    padding: 0;
+    width: 100%;
+    clear: both;
+}
+
+.redes-sociais-single a {
+    border-radius: 0;
+    box-sizing: border-box;
+    padding: 4px 14px;
+    margin-top: 4px;
+    border: 0;
+    min-width: 130px;
+    transition: background-color 0.2s ease-in-out;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    box-shadow: none !important;
+}
+.redes-sociais-single a i {
+    margin-right: 5px;
+    font-size: 14px;
+}
+.redes-sociais-single a.facebook {
+    background: #3D5A96;
+}
+.redes-sociais-single a.twitter {
+    background: #46A3E9;
+}
+.redes-sociais-single a.youtube {
+    background: #CB2027;
+}
+.redes-sociais-single a.linkedin {
+    background: #4393CC;
+}
+.redes-sociais-single a.instagram {
+    background: #E05B58;
+}
+.redes-sociais-single a.rss {
+    background: #F27110;
+}
+.redes-sociais-single a.whatsapp {
+    background: #4DC247;
+}
+.redes-sociais-single a.googleplus {
+    background: #DD5144;
+}
+.redes-sociais-single a.pinterest {
+    background: #BD081B;
+}
+.redes-sociais-single a.email {
+    background: #000;
+}
+.redes-sociais-single a.print {
+    background: #666;
+}
+.redes-sociais-single a.more, .btn-primary.dropdown-toggle, .show > .btn-primary.dropdown-toggle {
+    background: #FF6550;
+    box-shadow: none !important;
+}
+
+.redes-sociais-single a.googleplus:hover { background: rgb(238, 73, 58); }
+.redes-sociais-single a.facebook:hover { background-color: rgb(29, 80, 190); }
+.redes-sociais-single a.twitter:hover { background-color: rgb(75, 156, 214); }
+.redes-sociais-single a.youtube:hover { background-color: rgb(187, 25, 25); }
+.redes-sociais-single a.linkedin:hover { background-color: rgb(3, 110, 168); }
+.redes-sociais-single a.instagram:hover { background: #CE4076; }
+.redes-sociais-single a.whatsapp:hover { background: rgb(62, 165, 56); }
+.redes-sociais-single a.pinterest:hover { background: rgb(146, 6, 20); }
+.redes-sociais-single a.rss:hover { background-color: rgb(255, 102, 0); }
+.redes-sociais-single a.email:hover { background-color: #666; }
+.redes-sociais-single a.print:hover { background-color: #000; }
+.redes-sociais-single a.more:hover { background-color:rgb(250, 56, 31); }
