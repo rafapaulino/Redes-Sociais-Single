@@ -76,3 +76,8 @@
 .redes-sociais-single a.email:hover { background-color: #666; }
 .redes-sociais-single a.print:hover { background-color: #000; }
 .redes-sociais-single a.more:hover { background-color:rgb(250, 56, 31); }
+
+/* elemento usado para abrir a caixa de email */
+.mailto {
+    display: none;
+}
